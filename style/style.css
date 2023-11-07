@@ -154,7 +154,8 @@ main h2{
 
 main img{
 width: 100%;
-display: block;   
+display: block;
+position: fixed;   
 }
 
 
